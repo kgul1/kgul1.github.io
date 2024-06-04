@@ -3,9 +3,7 @@ layout: default
 ---
 
 
-[Link to another page](./another-page.html).
 
-[link to this page](https://www.youtube.com/)
 
 
 
@@ -47,6 +45,16 @@ layout: default
 
 
 [link do strony z php](./stronaphp.html)
+### Programowanie w Kotlinie
+```
+     Kotlin – statycznie typowany język programowania działający na 
+     maszynie wirtualnej Javy, który jest głównie rozwijany przez 
+     programistów JetBrains. Nazwa języka pochodzi od wyspy Kotlin 
+     niedaleko Petersburga[4]. Kotlin jest zaprojektowany z myślą o 
+     pełnej  interoperacyjności z językami działającymi
+                 na maszynie wirtualnej Javy.
+```
+[link do strony z kotlinem](./stronakotlin.html)
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -56,26 +64,12 @@ layout: default
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, single-line code blocks should not wrap. They should horizontally 
+scroll if they are too long. This line should be long enough
+ to demonstrate this.
 ```
 
-```
-The final element.
-```
+
