@@ -55,21 +55,17 @@ layout: default
                  na maszynie wirtualnej Javy.
 ```
 [link do strony z kotlinem](./stronakotlin.html)
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-
-
+### Podziekowania
 ```
-Long, single-line code blocks should not wrap. They should horizontally 
-scroll if they are too long. This line should be long enough
- to demonstrate this.
+            Dziekuje Panu bardzo bez Pana pomocy 
+     zajeło by mi napewno dużo więcej czasu zrobienie tej witryny 
 ```
+[podziekowania](./podziekowania.html)
+
+
+
+
 
 
