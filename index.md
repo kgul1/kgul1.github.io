@@ -24,7 +24,7 @@ layout: default
     projektowych kolejnych standardów języka.
 
 
-[link do strony z c++](podstrony/cpp/stronacpp.html)
+[link do strony z c++](./stronacpp.html)
 
 
 ### Header 3
