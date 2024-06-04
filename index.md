@@ -11,11 +11,11 @@ layout: default
 
 
 
-# Header 1
+# Programowanie
           Blog poświecony tematyce programowania w róznych językach 
 
 
-# Header 1
+# Programowanie w C++
      pierwsza adnotacja bedzie dotyczyła c++ jest jezyk programowania 
     wysokiego poziomu Język został zaprojektowany przez Bjarne Stroustrupa
     jako rozszerzenie języka C o obiektowe mechanizmy abstrakcji danych
@@ -27,22 +27,15 @@ layout: default
 [link do strony z c++](./stronacpp.html)
 
 
-### Header 3
+### Programowanie w JavaScript
+        Python – język programowania wysokiego poziomu ogólnego
+        przeznaczenia[2], o rozbudowanym pakiecie bibliotek
+        standardowych[3], którego ideą przewodnią jest czytelność
+        i klarowność kodu źródłowego. Jego składnia cechuje się
+                    przejrzystością i zwięzłością[4][5].
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[link do strony z python](./stronapython.html)
 
 #### Header 4
 
