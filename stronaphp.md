@@ -15,7 +15,8 @@ echo "My first PHP script!";
 ## lekcja(02)
 
 ```php
-//  instrukcja inicjalizowania zmiennych jak w pythonie nie podajemy typow
+//  instrukcja inicjalizowania zmiennych jak w pythonie
+ nie podajemy typow
 //tylko w php zmienne zawsze uprzedza znak $
 <?php
   $x = 5;

@@ -15,9 +15,10 @@ layout: default
 ## lekcja(02)
 
 ```py
-//  instrukcja inicjalizowania zmiennych jako ze python jest jezykiem
-// dynamicznym nie deklarujemy typow danych zmiennych
-// robie sie to poprzez przekonwertowanie np print(type(int("7")))
+//  instrukcja inicjalizowania zmiennych jako ze python 
+    jest jezykiem  dynamicznym nie deklarujemy typow danych
+zmiennych robie sie to poprzez przekonwertowanie np 
+print(type(int("7")))
 x = 5
 y = "John"
 print(x)
