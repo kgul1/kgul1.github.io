@@ -5,19 +5,19 @@ layout: default
                         strona poświecona kotlinowi
 
 
-## lekcja(01)
+##  prosta instrukcja wejscia w języku kotlin
 
 ```kotlin
-// prosta instrukcja wejscia w języku kotlin
+
 fun main() {
   println("Hello World")
 }
 ```
 
-## lekcja(02)
+##  instrukcja inicjalizowania zmiennych jak w kotlinie
 
 ```kotlin
-//  instrukcja inicjalizowania zmiennych jak w kotlinie 
+
 
 var variableName = value
 val variableName = value
@@ -31,20 +31,20 @@ val birthyear = 1975
 println(name)          // Print the value of name
 println(birthyear)     // Print the value of birthyear
 ```
-## lekcja(03)
+##   typy danych w kotlinie
 
 ```kotlin
-//  typy danych w kotlinie
+
 val myNum = 5             // Int
 val myDoubleNum = 5.99    // Double
 val myLetter = 'D'        // Char
 val myBoolean = true      // Boolean
 val myText = "Hello"      // String
 ```
-## lekcja(04)
+##  zmienne logiczne w kotlinie
 
 ```kotlin
-//  zmienne logiczne w kotlinie
+
 val isKotlinFun: Boolean = true
 val isFishTasty: Boolean = false
 println(isKotlinFun)   // Outputs true
@@ -57,7 +57,7 @@ println(x > y) // zwaraca true, poniewarz 10 jest wieksze od 9
 ```
 
 
-## lekcja(05)
+## instrukcja warunkowa w kotlinie
 
 ```kotlin
 if (20 > 18) {
@@ -75,4 +75,5 @@ if (time < 18) {
 }
 // Outputs "Dobry wieczor."
 ```
+# powrot do strony glównej
 [powrot do strony startowej](./index.html)

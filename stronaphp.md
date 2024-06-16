@@ -5,17 +5,17 @@ layout: default
                                strona poświecona php
 
 
-## lekcja(01)
+##  prosta instrukcja wejscia w języku php
 
 ```php
-// prosta instrukcja wejscia w języku php
+
 echo "My first PHP script!";
 ```
 
-## lekcja(02)
+##  instrukcja inicjalizowania zmiennych jak w pythonie
 
 ```php
-//  instrukcja inicjalizowania zmiennych jak w pythonie
+
  nie podajemy typow
 //tylko w php zmienne zawsze uprzedza znak $
 <?php
@@ -25,10 +25,10 @@ echo "My first PHP script!";
 ?>
 ```
 
-## lekcja(03)
+##  typy danych w php
 
 ```php
-//  typy danych w php
+
 String
 Integer
 Float 
@@ -38,10 +38,10 @@ Object
 NULL
 Resource
 ```
-## lekcja(04)
+##  zmienne logiczne w php
 
 ```php
-//  zmienne logiczne w php
+
 <?php
   $prawda = true;
   $fałsz = false;
@@ -57,7 +57,7 @@ Resource
 ```
 
 
-## lekcja(05)
+## instrukcja warunkowa
 
 ```php
 if (20 > 18) {
@@ -73,4 +73,5 @@ if (x > y) {
   echo "x jest wiekszy od  y";
 }
 ```
+# powrot do strony glównej
 [powrot do strony startowej](./index.html)

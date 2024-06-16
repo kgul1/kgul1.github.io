@@ -5,14 +5,14 @@ layout: default
                                strona poświecona python
 
 
-## lekcja(01)
+##  porownaniu z c++ instrukcja wejscia w python jest duzo krótza
 
 ```py
-// porownaniu z c++ instrukcja wejscia w python jest duzo krótza 
+
                         print("Hello, World!")
 ```
 
-## lekcja(02)
+## inicjalizacja zmiennych w pythonie
 
 ```py
 //  instrukcja inicjalizowania zmiennych jako ze python 
@@ -25,10 +25,10 @@ print(x)
 print(y)
 ```
 
-## lekcja(03)
+##  typy danych w pythonie
 
 ```py
-//  typy danych w pythonie
+
 Text Type:      str
 Numeric Types:	int, float, complex
 Sequence Types:	list, tuple, range
@@ -38,17 +38,17 @@ Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
-## lekcja(04)
+##   zmienne logiczne w pythonie
 
 ```py
-//  zmienne logiczne w pythonie
+
 print(10 > 9)//true poniewarz 10 jest wieksze od 9
 print(10 == 9)//false poniewarz 10 nie jest rowne 9
 print(10 < 9)//false poniewarz 10 nie jest mniejsze od 9 
 ```
 
 
-## lekcja(05)
+## instrukcja warunkowa w pythonie
 
 ```py
 a = 33

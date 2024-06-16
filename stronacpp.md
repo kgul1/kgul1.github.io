@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-# header1
+# programowanie w c++
                                strona poświecona c++
 
 
-## lekcja(01)
+## prosta instrukcja wejscia w języku c++
 
 ```cpp
-// prosta instrukcja wejscia w języku c++
+
 #include <iostream>
 using namespace std;
 
@@ -18,10 +18,10 @@ int main() {
 }
 ```
 
-## lekcja(02)
+## instrukcja inicjalizowania zmiennych
 
 ```cpp
-//  instrukcja inicjalizowania zmiennych
+
 #include <iostream>
 using namespace std;
 
@@ -32,10 +32,10 @@ cout << myNum;  // wyjście 10
 }
 ```
 
-## lekcja(03)
+##   typy danych w c++
 
 ```cpp
-//  typy danych w c++
+
 int myNum = 5;               // Integer (whole number)
 float myFloatNum = 5.99;     // Floating point number
 double myDoubleNum = 9.98;   // Floating point number
@@ -43,10 +43,10 @@ char myLetter = 'D';         // Character
 bool myBoolean = true;       // Boolean
 string myText = "Hello";     // String
 ```
-## lekcja(04)
+##   zmienne logiczne w c++
 
 ```cpp
-//  zmienne logiczne w c++
+
 bool isCodingFun = true;
 bool isFishTasty = false;
 cout << isCodingFun;  // Outputs 1 (true)
@@ -54,7 +54,7 @@ cout << isFishTasty;  // Outputs 0 (false)
 ```
 
 
-## lekcja(05)
+## instrukcje warunkowe c++
 
 ```cpp
 if (20 > 18) {
@@ -70,4 +70,5 @@ if (x > y) {
   cout << "x jest wiekszy od  y";
 }
 ```
+# powrot do strony glównej
 [powrot do strony startowej](./index.html)
